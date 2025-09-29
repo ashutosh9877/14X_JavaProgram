@@ -16,9 +16,10 @@ public class Lab_04_Factorial {
         }
         for (int i = 1; i <= n ; i++) {
             Factorial = Factorial*i;
-            System.out.println("Factorial of"+ " " +  i + " " + "is" + " " +Factorial);
+
 
 
         }
+        System.out.println("Factorial is" + " " +Factorial);
     }
 }
