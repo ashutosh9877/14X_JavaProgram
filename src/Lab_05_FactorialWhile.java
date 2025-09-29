@@ -18,5 +18,6 @@ public class Lab_05_FactorialWhile {
             Factorial = Factorial*i;
             i++;
         }
+        System.out.println(Factorial);
     }
 }
